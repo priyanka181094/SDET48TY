@@ -12,6 +12,7 @@ public class MvnTestng {
 	public void test2()
 	{
 		System.out.println("see you");
+		System.out.println("hello");
 	}
 
 }
