@@ -7,6 +7,7 @@ public class MvnTestng {
 	public void test1()
 	{
 		System.out.println("Bye");
+		System.out.println("I am ready");
 	}
 	@Test
 	public void test2()
