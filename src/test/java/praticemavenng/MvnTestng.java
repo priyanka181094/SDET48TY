@@ -14,6 +14,7 @@ public class MvnTestng {
 	{
 		System.out.println("see you");
 		System.out.println("hello");
+		System.out.println("good morning");
 		//welcome
 	}
 
